@@ -1,1 +1,1 @@
-# hotwheels-frontend
+# Hot Wheels Collection - frontend
